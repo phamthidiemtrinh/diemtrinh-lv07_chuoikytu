@@ -45,3 +45,9 @@ char *p[10];
 ````````````````
 khai báo một mảng  con trỏ char dùng để lưu trữ địa chỉ của 10 chuỗi ký tự
 
+## 4.Các hàm nhập, xuất chuỗi thộc stdio.h
+
+- Hàm gets() đọc từ bàn phím tất cả các ký tự và đưa vào chuỗi, kết thúc viện đọc khi gặp lệnh enter, cuối chuỗi được thêm vào '\0'
+- Hàm puts() in nội dung một chuỗi ký tự ra màn hình và thay thế '\0' ở cuối bằng lệnh xuống dòng
+
+
